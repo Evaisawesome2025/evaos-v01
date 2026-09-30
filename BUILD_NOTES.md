@@ -4,6 +4,9 @@
 **Account:** Evaisawesome2025  
 **Host:** GitHub Pages, project site, branch `main`, path `/`  
 **Cost:** $0. No domain purchase. No new agent.
+**Live URL:** https://evaisawesome2025.github.io/evaos-v01/
+**Repo:** https://github.com/Evaisawesome2025/evaos-v01
+**Verified:** HTTP 200 on 2026-09-30 ~11:23 CT. Pages status `built`.
 
 ## What this is
 
