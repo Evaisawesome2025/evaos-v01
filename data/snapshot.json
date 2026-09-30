@@ -1,0 +1,28 @@
+{
+  "built_ct": "2026-09-30T11:21-05:00",
+  "label": "static snapshot, not live",
+  "sources": [
+    "team/TEAM_MAP.md",
+    "team/ceo_approval_queue.md",
+    "experiment_log.csv",
+    "reports/economic_scoreboard.md",
+    "reports/economic_scoreboard.csv",
+    "architecture/performance/EVA_PERFORMANCE_LEDGER.md",
+    "capability_test/revenue_experiment_1/STATUS.md",
+    "capability_test/revenue_experiment_1/DISPOSITION_2026-09-30.md",
+    "lessons_learned.md",
+    "coach/LEARNING_LOG.md",
+    "architecture/evaos/HUMAN_DEPENDENT_DEBT.csv",
+    "architecture/evaos/THESIS_BRIEF.md",
+    "architecture/evaos/FATAL_ASSUMPTIONS.md",
+    "opportunity_intelligence/PIPELINE.md"
+  ],
+  "money": {
+    "collected_revenue_usd": 0,
+    "customers": 0,
+    "listinglift_price_usd": 39,
+    "paid_n": 0
+  },
+  "listinglift": "FINISH_ONE_SENT_THEN_PARK",
+  "simulated_blocks": []
+}
